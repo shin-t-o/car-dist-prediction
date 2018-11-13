@@ -1,0 +1,3 @@
+*.tsv
+sample_submit.csv
+.ipynb_checkpoints/car_dist_prediction-checkpoint.ipynb
