@@ -1,2 +1,4 @@
 sample_submit.csv
 .ipynb_checkpoints/
+result_regression/
+*.csv
